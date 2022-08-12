@@ -1,0 +1,27 @@
+body {
+font-family: Georgia, Helvetica, sans-serif;
+background-color: rgb(246, 238, 226);
+}
+
+.title {
+    color:black;
+    outline: solid;
+    text-align: center;
+    background-color: blanchedalmond;
+
+}
+.description {
+    color:black;
+    text-align: center;
+}
+
+.home-img {
+    width: 200px;
+    height: auto;
+}
+
+button{
+    font-family: Georgia, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+    font-size: 30px;
+}
